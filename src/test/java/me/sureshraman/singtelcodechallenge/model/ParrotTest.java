@@ -1,5 +1,6 @@
 package me.sureshraman.singtelcodechallenge.model;
 
+import me.sureshraman.singtelcodechallenge.constant.I18nKey;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -32,7 +33,7 @@ public class ParrotTest {
 
         String sayResult = parrot.say();
 
-        assertThat(sayResult).isEqualTo("Cock-a-doodle-doo");
+        assertThat(sayResult).isEqualTo(I18nKey.SAY_ROOSTER);
     }
 
     @Test

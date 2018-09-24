@@ -1,5 +1,6 @@
 package me.sureshraman.singtelcodechallenge.model;
 
+import me.sureshraman.singtelcodechallenge.constant.I18nKey;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -18,7 +19,7 @@ public class RoosterTest {
     public void shouldSayCockADoodleDoo() {
         String sayResult = rooster.say();
 
-        assertThat(sayResult).isEqualTo("Cock-a-doodle-doo");
+        assertThat(sayResult).isEqualTo(I18nKey.SAY_ROOSTER);
     }
 
     @Test
