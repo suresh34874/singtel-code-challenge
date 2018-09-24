@@ -6,7 +6,7 @@ public class Parrot extends Animal implements Sayer, Walker {
 
     private final Sayer livingWith;
 
-    Parrot() {
+    public Parrot() {
         this.livingWith = null;
     }
 

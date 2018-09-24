@@ -1,5 +1,5 @@
 package me.sureshraman.singtelcodechallenge.model;
 
-public class Fish implements Swimmer {
+public class Fish extends Animal implements Swimmer {
 
 }
