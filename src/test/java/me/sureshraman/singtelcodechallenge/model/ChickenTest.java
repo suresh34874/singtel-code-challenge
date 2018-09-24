@@ -20,4 +20,11 @@ public class ChickenTest {
 
         assertThat(sayResult).isEqualTo("Cluck, cluck");
     }
+
+    @Test
+    public void shouldWalk() {
+        String walkResult = chicken.walk();
+
+        assertThat(walkResult).isEqualTo("I am walking");
+    }
 }

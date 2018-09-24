@@ -1,6 +1,6 @@
 package me.sureshraman.singtelcodechallenge.model;
 
-public class Duck extends Animal implements Sayer {
+public class Duck extends Animal implements Sayer, Walker {
     public String say() {
         return "Quack, quack";
     }

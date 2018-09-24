@@ -5,25 +5,24 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class RoosterTest {
-
-    private Rooster rooster;
+public class DogTest {
+    private Dog dog;
 
     @Before
     public void setUp() {
-        rooster = new Rooster();
+        dog = new Dog();
     }
 
     @Test
-    public void shouldSayCockADoodleDoo() {
-        String sayResult = rooster.say();
+    public void shouldSayWoofWoof() {
+        String sayResult = dog.say();
 
-        assertThat(sayResult).isEqualTo("Cock-a-doodle-doo");
+        assertThat(sayResult).isEqualTo("Woof, woof");
     }
 
     @Test
     public void shouldWalk() {
-        String walkResult = rooster.walk();
+        String walkResult = dog.walk();
 
         assertThat(walkResult).isEqualTo("I am walking");
     }

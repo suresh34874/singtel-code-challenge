@@ -27,5 +27,12 @@ public class DuckTest {
 
         assertThat(swimResult).isEqualTo("I am swimming");
     }
+
+    @Test
+    public void shouldWalk() {
+        String walkResult = duck.walk();
+
+        assertThat(walkResult).isEqualTo("I am walking");
+    }
 }
 

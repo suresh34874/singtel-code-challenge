@@ -27,4 +27,11 @@ public class BirdTest {
 
         assertThat(singResult).isEqualTo("I am singing");
     }
+
+    @Test
+    public void shouldWalk() {
+        String walkResult = bird.walk();
+
+        assertThat(walkResult).isEqualTo("I am walking");
+    }
 }
