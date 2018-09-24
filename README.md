@@ -1,0 +1,5 @@
+# Singtel code challenge
+
+## Model
+
+![]()

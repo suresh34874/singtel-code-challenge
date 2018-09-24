@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>me.sureshraman.singtelcodechallenge.model</OriginalElement>
+  <nodes>
+    <node x="188.58749999999986" y="0.0">me.sureshraman.singtelcodechallenge.model.Swimmer</node>
+    <node x="193.0" y="460.0">me.sureshraman.singtelcodechallenge.model.Shark</node>
+    <node x="1532.8239583333334" y="325.0">me.sureshraman.singtelcodechallenge.model.Rooster</node>
+    <node x="799.8239583333333" y="325.0">me.sureshraman.singtelcodechallenge.model.Caterpillar</node>
+    <node x="1499.490625" y="0.0">me.sureshraman.singtelcodechallenge.model.Sayer</node>
+    <node x="1289.8239583333334" y="0.0">me.sureshraman.singtelcodechallenge.model.Walker</node>
+    <node x="1852.8239583333334" y="314.0">me.sureshraman.singtelcodechallenge.model.Duck</node>
+    <node x="0.0" y="460.0">me.sureshraman.singtelcodechallenge.model.ClownFish</node>
+    <node x="304.6989583333333" y="336.0">me.sureshraman.singtelcodechallenge.model.Dolphin</node>
+    <node x="610.8239583333333" y="336.0">me.sureshraman.singtelcodechallenge.model.Bird</node>
+    <node x="419.6989583333333" y="336.0">me.sureshraman.singtelcodechallenge.model.Butterfly</node>
+    <node x="1212.8239583333334" y="325.0">me.sureshraman.singtelcodechallenge.model.Cat</node>
+    <node x="545.7666666666665" y="0.0">me.sureshraman.singtelcodechallenge.model.Singer</node>
+    <node x="703.8239583333333" y="336.0">me.sureshraman.singtelcodechallenge.model.Frog</node>
+    <node x="1025.8239583333334" y="291.0">me.sureshraman.singtelcodechallenge.model.Parrot</node>
+    <node x="1372.8239583333334" y="325.0">me.sureshraman.singtelcodechallenge.model.Chicken</node>
+    <node x="794.9208333333333" y="11.0">me.sureshraman.singtelcodechallenge.model.Animal</node>
+    <node x="0.0" y="601.0">me.sureshraman.singtelcodechallenge.model.Color</node>
+    <node x="191.76666666666654" y="336.0">me.sureshraman.singtelcodechallenge.model.Fish</node>
+    <node x="1692.8239583333334" y="325.0">me.sureshraman.singtelcodechallenge.model.Dog</node>
+    <node x="391.76666666666654" y="0.0">me.sureshraman.singtelcodechallenge.model.Flyer</node>
+    <node x="138.0" y="601.0">me.sureshraman.singtelcodechallenge.model.Size</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Chicken" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="46.66666666666674" y="-25.5" />
+      <point x="1489.490625" y="271.0" />
+      <point x="1557.8239583333334" y="271.0" />
+      <point x="-11.666666666666742" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Butterfly" target="me.sureshraman.singtelcodechallenge.model.Flyer">
+      <point x="-25.5" y="-14.5" />
+      <point x="445.1989583333333" y="151.0" />
+      <point x="425.26666666666654" y="151.0" />
+      <point x="-33.5" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Rooster" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-46.66666666666674" y="-25.5" />
+      <point x="1556.1572916666664" y="151.0" />
+      <point x="865.3791666666666" y="151.0" />
+      <point x="25.95833333333337" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Dolphin" target="me.sureshraman.singtelcodechallenge.model.Swimmer">
+      <point x="-23.75" y="-14.5" />
+      <point x="328.4489583333333" y="151.0" />
+      <point x="301.08749999999986" y="151.0" />
+      <point x="37.5" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Cat" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="46.66666666666674" y="-25.5" />
+      <point x="1329.490625" y="261.0" />
+      <point x="1534.490625" y="261.0" />
+      <point x="-35.0" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Cat" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-25.5" />
+      <point x="1282.8239583333334" y="241.0" />
+      <point x="1353.6989583333334" y="241.0" />
+      <point x="-9.125" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Chicken" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-25.5" />
+      <point x="1442.8239583333334" y="161.0" />
+      <point x="1371.9489583333334" y="161.0" />
+      <point x="9.125" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Dog" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="46.66666666666674" y="-25.5" />
+      <point x="1809.490625" y="101.0" />
+      <point x="1604.490625" y="101.0" />
+      <point x="35.0" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Duck" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-50.0" y="-36.5" />
+      <point x="1877.8239583333334" y="91.0" />
+      <point x="880.2125000000001" y="91.0" />
+      <point x="40.79166666666674" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Frog" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="0.0" y="-14.5" />
+      <point x="741.8239583333333" y="201.0" />
+      <point x="828.2958333333333" y="201.0" />
+      <point x="-11.125" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Parrot" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-55.66666666666674" y="-59.5" />
+      <point x="1053.6572916666664" y="191.0" />
+      <point x="843.1291666666666" y="191.0" />
+      <point x="3.7083333333333712" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Duck" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-36.5" />
+      <point x="1927.8239583333334" y="81.0" />
+      <point x="1426.6989583333334" y="81.0" />
+      <point x="63.875" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Caterpillar" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="51.5" y="-25.5" />
+      <point x="954.3239583333333" y="221.0" />
+      <point x="1317.1989583333334" y="221.0" />
+      <point x="-45.625" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Parrot" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="55.66666666666674" y="-59.5" />
+      <point x="1164.990625" y="251.0" />
+      <point x="1511.1572916666669" y="251.0" />
+      <point x="-58.33333333333326" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Duck" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="50.0" y="-36.5" />
+      <point x="1977.8239583333332" y="71.0" />
+      <point x="1627.8239583333334" y="71.0" />
+      <point x="58.33333333333326" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Fish" target="me.sureshraman.singtelcodechallenge.model.Swimmer">
+      <point x="-18.25" y="-14.5" />
+      <point x="210.01666666666654" y="271.0" />
+      <point x="226.08749999999986" y="271.0" />
+      <point x="-37.5" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Dog" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-46.66666666666674" y="-25.5" />
+      <point x="1716.1572916666664" y="121.0" />
+      <point x="872.7958333333333" y="121.0" />
+      <point x="33.375" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Rooster" target="me.sureshraman.singtelcodechallenge.model.Sayer">
+      <point x="46.66666666666674" y="-25.5" />
+      <point x="1649.490625" y="131.0" />
+      <point x="1581.1572916666669" y="131.0" />
+      <point x="11.666666666666742" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Rooster" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-25.5" />
+      <point x="1602.8239583333334" y="141.0" />
+      <point x="1390.1989583333334" y="141.0" />
+      <point x="27.375" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Cat" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-46.66666666666674" y="-25.5" />
+      <point x="1236.1572916666664" y="181.0" />
+      <point x="850.5458333333333" y="181.0" />
+      <point x="11.125" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Dog" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-25.5" />
+      <point x="1762.8239583333334" y="111.0" />
+      <point x="1408.4489583333334" y="111.0" />
+      <point x="45.625" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Bird" target="me.sureshraman.singtelcodechallenge.model.Singer">
+      <point x="-9.125" y="-14.5" />
+      <point x="638.1989583333333" y="141.0" />
+      <point x="618.2666666666665" y="141.0" />
+      <point x="0.0" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Fish" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="18.25" y="-14.5" />
+      <point x="246.51666666666654" y="161.0" />
+      <point x="798.6291666666666" y="161.0" />
+      <point x="-40.79166666666663" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Caterpillar" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-51.5" y="-25.5" />
+      <point x="851.3239583333333" y="201.0" />
+      <point x="835.7124999999999" y="201.0" />
+      <point x="-3.7083333333333712" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Dolphin" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="23.75" y="-14.5" />
+      <point x="375.9489583333333" y="171.0" />
+      <point x="806.0458333333333" y="171.0" />
+      <point x="-33.375" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Parrot" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="0.0" y="-59.5" />
+      <point x="1109.3239583333334" y="231.0" />
+      <point x="1335.4489583333334" y="231.0" />
+      <point x="-27.375" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Bird" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="9.125" y="-14.5" />
+      <point x="656.4489583333333" y="191.0" />
+      <point x="820.8791666666666" y="191.0" />
+      <point x="-18.54166666666663" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Shark" target="me.sureshraman.singtelcodechallenge.model.Fish">
+      <point x="0.0" y="-48.0" />
+      <point x="285.0" y="435.0" />
+      <point x="246.51666666666654" y="435.0" />
+      <point x="18.25" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Bird" target="me.sureshraman.singtelcodechallenge.model.Flyer">
+      <point x="-27.375" y="-14.5" />
+      <point x="619.9489583333333" y="151.0" />
+      <point x="492.26666666666654" y="151.0" />
+      <point x="33.5" y="25.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Butterfly" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="25.5" y="-14.5" />
+      <point x="496.1989583333333" y="181.0" />
+      <point x="813.4624999999999" y="181.0" />
+      <point x="-25.95833333333337" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.ClownFish" target="me.sureshraman.singtelcodechallenge.model.Fish">
+      <point x="0.0" y="-48.0" />
+      <point x="86.5" y="435.0" />
+      <point x="210.01666666666654" y="435.0" />
+      <point x="-18.25" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Chicken" target="me.sureshraman.singtelcodechallenge.model.Animal">
+      <point x="-46.66666666666674" y="-25.5" />
+      <point x="1396.1572916666664" y="171.0" />
+      <point x="857.9625000000001" y="171.0" />
+      <point x="18.541666666666742" y="14.5" />
+    </edge>
+    <edge source="me.sureshraman.singtelcodechallenge.model.Bird" target="me.sureshraman.singtelcodechallenge.model.Walker">
+      <point x="27.375" y="-14.5" />
+      <point x="674.6989583333333" y="211.0" />
+      <point x="1298.9489583333334" y="211.0" />
+      <point x="-63.875" y="25.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7329956584659914" x="671.0" y="291.0523198420533" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Production</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
